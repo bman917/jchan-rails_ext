@@ -1,20 +1,16 @@
 # Jchan::RailsExt
 
-TODO: Write a gem description
+Common rails extensions I use accross different apps
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'jchan-rails_ext'
+    gem 'jchan-rails_ext', github: 'bman917/jchan-rails_ext'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install jchan-rails_ext
 
 ## Usage
 
